@@ -8,7 +8,7 @@
 
 ### 📖 Project Overview
 
-This is a personal project for an Ecommerce Website.
+This is a personal project for an Ecommerce Website...
 
 ### 🛠️ Technologies used
 
