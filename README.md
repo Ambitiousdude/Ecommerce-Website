@@ -8,7 +8,7 @@
 
 ### 📖 Project Overview
 
-This is a Preview personal project for an Ecommerce Website with HTML/CSS/JS...
+This is a Preview personal project for an Ecommerce Website with HTML/CSS/JS.
 
 ### 🛠️ Technologies used
 
